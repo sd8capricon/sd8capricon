@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 
 ### My Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sd8capricon)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sd8capricon&layout=compact&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd8capricon&layout=compact&theme=github_dark)
