@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shri142/count.svg" />
+</p>
+
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ML algorithms
 - 👯 I’m looking to collaborate on javascript || python
