@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sd8capricon/count.svg" />
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AtharvaShekatkar.AtharvaShekatkar) [![Github](https://img.shields.io/github/followers/AtharvaShekatkar?label=Follow&style=social)](https://github.com/AtharvaShekatkar)
 </p>
 
 - 🔭 I’m currently working on
@@ -26,5 +27,5 @@ Here are some ideas to get you started:
 
 
 ### My Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sd8capricon&layout=compact&theme=github_dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sd8capricon&layout=compact&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd8capricon&layout=compact&theme=github_dark)
