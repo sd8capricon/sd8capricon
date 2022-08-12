@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sd8capricon/count.svg" />
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sd8capricon.sd8capircon) [![Github](https://img.shields.io/github/followers/sd8capricon?label=Follow&style=social)](https://github.com/sd8capricon)
 </p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sd8capricon.sd8capircon) [![Github](https://img.shields.io/github/followers/sd8capricon?label=Follow&style=social)](https://github.com/sd8capricon)
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ML algorithms
