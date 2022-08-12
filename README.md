@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ML algorithms
 - 👯 I’m looking to collaborate on javascript || python
+
+
+### My Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sd8capricon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd8capricon&layout=compact&theme=github_dark)
