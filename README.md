@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shri142/count.svg" />
+  <img src="https://profile-counter.glitch.me/sd8capricon/count.svg" />
 </p>
 
 - 🔭 I’m currently working on
